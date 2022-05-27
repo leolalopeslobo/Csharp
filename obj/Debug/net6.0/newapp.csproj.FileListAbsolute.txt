@@ -1,0 +1,15 @@
+C:\Users\Leola Lopes Lobo\Desktop\C#\newapp\bin\Debug\net6.0\newapp.exe
+C:\Users\Leola Lopes Lobo\Desktop\C#\newapp\bin\Debug\net6.0\newapp.deps.json
+C:\Users\Leola Lopes Lobo\Desktop\C#\newapp\bin\Debug\net6.0\newapp.runtimeconfig.json
+C:\Users\Leola Lopes Lobo\Desktop\C#\newapp\bin\Debug\net6.0\newapp.dll
+C:\Users\Leola Lopes Lobo\Desktop\C#\newapp\bin\Debug\net6.0\newapp.pdb
+C:\Users\Leola Lopes Lobo\Desktop\C#\newapp\obj\Debug\net6.0\newapp.csproj.AssemblyReference.cache
+C:\Users\Leola Lopes Lobo\Desktop\C#\newapp\obj\Debug\net6.0\newapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leola Lopes Lobo\Desktop\C#\newapp\obj\Debug\net6.0\newapp.AssemblyInfoInputs.cache
+C:\Users\Leola Lopes Lobo\Desktop\C#\newapp\obj\Debug\net6.0\newapp.AssemblyInfo.cs
+C:\Users\Leola Lopes Lobo\Desktop\C#\newapp\obj\Debug\net6.0\newapp.csproj.CoreCompileInputs.cache
+C:\Users\Leola Lopes Lobo\Desktop\C#\newapp\obj\Debug\net6.0\newapp.dll
+C:\Users\Leola Lopes Lobo\Desktop\C#\newapp\obj\Debug\net6.0\refint\newapp.dll
+C:\Users\Leola Lopes Lobo\Desktop\C#\newapp\obj\Debug\net6.0\newapp.pdb
+C:\Users\Leola Lopes Lobo\Desktop\C#\newapp\obj\Debug\net6.0\newapp.genruntimeconfig.cache
+C:\Users\Leola Lopes Lobo\Desktop\C#\newapp\obj\Debug\net6.0\ref\newapp.dll
