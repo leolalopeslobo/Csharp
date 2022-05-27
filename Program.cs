@@ -1,6 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//Displaying a formatted string
 
-Console.WriteLine("Hello, World!");
-Console.Write("This is my first C# Program");
-Console.WriteLine("Today is the 27th of May 2022");
-Console.WriteLine("It's a Friday");
+int x = 10;
+double y = 20.2;
+
+Console.WriteLine("x = {0}; y = {1}",x,y);
+Console.WriteLine("x = {0}; y = {1}",y,x);
+Console.WriteLine("x = {1}; y = {0}",x,y);
+Console.WriteLine("x = {1}; y = {0}",y,x);
